@@ -34,7 +34,7 @@
 
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=prussian)
 ![Codewars](https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C)<br/>
 

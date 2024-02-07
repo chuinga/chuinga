@@ -1,6 +1,6 @@
 ![](/GithubProfileImage.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=400&size=47&duration=4991&pause=1000&color=0800f5&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Hello+fellow+developers%2C+welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=400&size=47&duration=4991&pause=1000&color=0800f5&background=FFFFFF00&center=true&vCenter=true&width=1200&lines=Hello+fellow+developers%2C+welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 
 # 💫 About Me:

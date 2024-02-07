@@ -1,10 +1,13 @@
 ![](/GithubProfileImage.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=400&size=47&duration=4991&pause=1000&color=0800f5&background=FFFFFF00&center=true&vCenter=true&width=680&lines=Hello+fellow+developers%2C+welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=400&size=47&duration=4991&pause=1000&color=0800f5&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Hello+fellow+developers%2C+welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website<br>🌱 I’m currently learning Typescript<br>💬 Ask me about React, HTML, CSS, Express JS, mongoDB and Javascript<br>⚡ Fun fact: When I'm not immersed in code, you'll often find me tearing up the trails on my downhill bike, embracing the thrill of speed and adventure.
+🔭 I’m currently working on my portfolio website<br>
+🌱 I’m currently learning Typescript<br>
+💬 Ask me about React, HTML, CSS, Express JS, mongoDB and Javascript<br>
+⚡ Fun fact: When I'm not immersed in code, you'll often find me tearing up the trails on my downhill bike, embracing the thrill of speed and adventure.
 
 
 ## 🌐 Socials:

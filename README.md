@@ -99,7 +99,9 @@ the trails on my downhill bike, embracing the thrill of speed and adventure.
 ---
 
 <p align="right">
-    <img src="https://visitcount.itsvg.in/api?id=chuinga&icon=2&color=0" alt="Visitor Count">  
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=chuinga&icon=2&color=0" alt="Visitor Count">
+    </a>
 </p>
 
   

@@ -73,8 +73,8 @@ the trails on my downhill bike, embracing the thrill of speed and adventure.
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs" width="300px" height="150px"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="300px"/></td>
-    <td><img src="https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" width="300px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="300px" height="150px"/></td>
+    <td><img src="https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" width="300px" height="150px"/></td>
   </tr>
 </table>
 

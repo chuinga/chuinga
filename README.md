@@ -1,17 +1,25 @@
+<div style="background-color:black; color:white; padding:10px;">
+
 ![](/ProfileImage.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=350&size=50&duration=7000&pause=4000&color=00A2E8&background=FFFFFF00&center=false&vCenter=true&width=1400&lines=Hello+fellow+developers.+Welcome+to+my+GitHub%21%21%21)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=350&size=50&duration=15000&pause=4000&color=00A2E8&background=FFFFFF00&center=false&vCenter=true&width=1800&lines=I+am+Miguel+Martins%2C+and+I+am+pursuing+a+career+as+a+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=350&size=45&duration=7000&pause=4000&color=00A2E8&background=FFFFFF00&center=false&vCenter=true&width=1400&lines=Hello+fellow+developers.+Welcome+to+my+GitHub%21%21%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=350&size=45&duration=15000&pause=4000&color=00A2E8&background=FFFFFF00&center=false&vCenter=true&width=1800&lines=I+am+Miguel+Martins%2C+and+I+am+pursuing+a+career+as+a+developer.)](https://git.io/typing-svg)
 
+<br/>
 
 # 💫 About Me:
+
 🔭 I’m currently working on my portfolio website<br>
 🌱 I’m currently learning Typescript<br>
 💬 Ask me about React, HTML, CSS, Express JS, mongoDB and Javascript<br>
-⚡ Fun fact: When I'm not immersed in code, you'll often find me tearing up the trails on my downhill bike, embracing the thrill of speed and adventure.
+⚡ Fun fact: When I'm not immersed in code, you'll often find me tearing up<br>
+<c style='padding-left: 24px;'>
+the trails on my downhill bike, embracing the thrill of speed and adventure.
+</c>
 
+<br/>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-martins-a08a76a5) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/htzgyyih-the-looper) 
 [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=plastic&logo=meetup&logoColor=white)](https://www.meetup.com/pt-BR/members/406100696/)
@@ -19,6 +27,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://x.com/chuingasp) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/chuinga) 
 
+<br/>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -58,24 +67,42 @@
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=plastic&logo=DuckDuckGo&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
+<br/>
 
 # 📊 Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=prussian)<br/>
-![](https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Codewars](https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C)<br/>
+<div style="max-width:300px;">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![Codewars](https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level)
+</div>
 
-## 🏆 GitHub Trophies
+<br/>
+
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chuinga&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+<br/>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<br/>
 
-### 😂 Random Dev Meme
+# 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+<br/>
+<br/>
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chuinga&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<div style="text-align: right;">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=chuinga&icon=2&color=0" alt="Visitor Count">
+    </a>
+</div>
+
+  
+</div>

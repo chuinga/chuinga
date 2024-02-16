@@ -13,9 +13,7 @@
 🌱 I’m currently learning Typescript<br>
 💬 Ask me about React, HTML, CSS, Express JS, mongoDB and Javascript<br>
 ⚡ Fun fact: When I'm not immersed in code, you'll often find me tearing up<br>
-<c style='padding-left: 24px;'>
-the trails on my downhill bike, embracing the thrill of speed and adventure.
-</c>
+&nbsp;&nbsp;&nbsp;&nbsp;the trails on my downhill bike, embracing the thrill of speed and adventure.
 
 <br/>
 

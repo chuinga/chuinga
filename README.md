@@ -70,12 +70,13 @@ the trails on my downhill bike, embracing the thrill of speed and adventure.
 <br/>
 
 # 📊 Stats:
-<div style="max-width:300px;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![Codewars](https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level)
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/></td>
+    <td><img src="https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars"/></td>
+  </tr>
+</table>
 
 <br/>
 

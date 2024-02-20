@@ -18,6 +18,7 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-martins-a08a76a5) 
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)](https://stackoverflow.com/users/23447994/miguel-martins)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mfproencamartins)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/htzgyyih-the-looper) 
 [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=plastic&logo=meetup&logoColor=white)](https://www.meetup.com/pt-BR/members/406100696/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://www.facebook.com/miguel.chuinga)

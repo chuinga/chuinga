@@ -69,9 +69,9 @@
 # 📊 Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs" height="200px"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200px"/></td>
-    <td><img src="https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" height="200px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs" height="400px"/></td><br/>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="400px"/></td><br/>
+    <td><img src="https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" height="400px"/></td>
   </tr>
 </table>
 

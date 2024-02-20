@@ -67,9 +67,9 @@
 <br/>
 
 # 📊 Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs" widht="200px" height="400px"/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" widht="200px" height="400px"/><br/>
-<img src="https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" widht="200px" height="400px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs" widht="200px" height="200px"/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" widht="200px" height="200px"/><br/>
+<img src="https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" widht="200px" height="200px"/>
 
 <br/>
 

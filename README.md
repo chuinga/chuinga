@@ -95,5 +95,5 @@
 ---
 ![Profile View Counter](https://komarev.com/ghpvc/?username=chuinga&color=00A2E8&style=plastic)
 <p align="right">
-    ![Profile View Counter](https://komarev.com/ghpvc/?username=chuinga&color=00A2E8&style=plastic)
+    <img src='https://komarev.com/ghpvc/?username=chuinga&color=00A2E8&style=plastic'/>
 </p>

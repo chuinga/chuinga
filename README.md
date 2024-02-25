@@ -95,5 +95,5 @@
 ---
 
 <p align="right">
-    <img src="https://visitcount.itsvg.in/api?id=chuinga&icon=2&color=0" alt="Visitor Count">
+    ![](https://komarev.com/ghpvc/?username=chuinga&color=00A2E8&style=plastic)
 </p>

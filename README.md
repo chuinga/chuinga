@@ -95,7 +95,5 @@
 ---
 
 <p align="right">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=chuinga&icon=2&color=0" alt="Visitor Count">
-    </a>
+    <img src="https://visitcount.itsvg.in/api?id=chuinga&icon=2&color=0" alt="Visitor Count">
 </p>

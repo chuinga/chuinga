@@ -66,7 +66,7 @@
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=plastic&logo=DuckDuckGo&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
-<br/>
+<br/><br/><br/><br/>
 
 # 📊 Stats:
 <p align="center">

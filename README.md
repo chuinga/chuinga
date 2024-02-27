@@ -4,14 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=350&size=45&duration=15000&pause=4000&color=00A2E8&background=FFFFFF00&center=false&vCenter=true&width=1800&lines=I+am+Miguel+Martins%2C+and+I+am+pursuing+a+career+as+a+developer.)](https://git.io/typing-svg)
 
 <br/>
-<img align="right" alt="coding" width="400" src="/intro_to_comp_programming.jpg">
-# 💫 About Me:
 
+# 💫 About Me:
+<img align="right" alt="coding" width="400" src="/intro_to_comp_programming.jpg">
 🔭 I’m currently working on my portfolio website<br>
 🌱 I’m currently learning Typescript<br>
 💬 Ask me about React, HTML, CSS, Express JS, mongoDB and Javascript<br>
-⚡ Fun fact: When I'm not immersed in code, you'll often find me tearing up<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the trails on my downhill bike, embracing the thrill of speed and adventure.
+⚡ Fun fact: When I'm not immersed in code, you'll often find me tearing up the trails on my downhill bike, embracing the thrill of speed and adventure.
 
 <br/>
 

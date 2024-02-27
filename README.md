@@ -12,7 +12,7 @@
 💬 Ask me about React, HTML, CSS, Express JS, mongoDB and Javascript<br>
 ⚡ Fun fact: When I'm not immersed in code, you'll often find me tearing up the trails on my downhill bike, embracing the thrill of speed and adventure.
 
-<br/>
+<br/><br/><br/>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-martins-a08a76a5) 

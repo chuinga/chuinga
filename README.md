@@ -15,7 +15,7 @@
 <br/><br/><br/>
 
 # 🌐 Socials:
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="migmrt" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/migmrt?trk=profile-badge">Miguel Martins</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-martins-a08a76a5) 
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)](https://stackoverflow.com/users/23447994/miguel-martins)

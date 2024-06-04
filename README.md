@@ -1,7 +1,7 @@
 ![Profile Image](/ProfileImage.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=350&size=45&duration=7000&pause=4000&color=00A2E8&background=FFFFFF00&center=false&vCenter=true&width=1400&lines=Hello+fellow+developers.+Welcome+to+my+GitHub%21%21%21)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=350&size=45&duration=15000&pause=4000&color=00A2E8&background=FFFFFF00&center=false&vCenter=true&width=1800&lines=I+am+Miguel+Martins%2C+and+I+am+pursuing+a+career+as+a+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=350&size=45&duration=15000&pause=4000&color=00A2E8&background=FFFFFF00&center=false&vCenter=true&width=1800&lines=I+am+Miguel+Martins%2C+and+I+am+a+full+stack+developer.)](https://git.io/typing-svg)
 
 <br/>
 

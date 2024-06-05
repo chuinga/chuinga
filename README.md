@@ -101,8 +101,7 @@
 <br/>
 
 # 😂 Random Dev Meme
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)]
-
+![](https://memes.jpdiaz.dev/api?type=horizontal&theme=tokyonight)
 <br/>
 <br/>
 <br/>

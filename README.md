@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="400" src="/intro_to_comp_programming.jpg">
 🔭 I’m currently working on a e-commerce platform<br>
 🌱 I’m currently learning Data Structure & Algorithms<br>
-💬 Ask me about React, HTML, CSS, Express JS, mongoDB and Javascript<br>
+💬 Ask me about Javascript, ReactJS, NodeJS, MongoDB and SQL Server<br>
 ⚡ Fun fact: "When I'm not immersed in coding, you'll often find me tearing up mountain trails on my downhill bike, seeking that adrenaline rush."
 
 <br/><br/><br/>
@@ -39,6 +39,7 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=plastic&logo=jasmine&logoColor=white) 

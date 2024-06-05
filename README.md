@@ -99,10 +99,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
-
-# 😂 Random Dev Meme
-![](https://memes.jpdiaz.dev/api?type=horizontal&theme=tokyonight)
-<br/>
 <br/>
 <br/>
 

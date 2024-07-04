@@ -8,7 +8,7 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="/intro_to_comp_programming.jpg">
 🔭 I’m currently working on a e-commerce platform<br>
-🌱 I’m currently learning Data Structure & Algorithms and Java<br>
+🌱 I’m currently learning Java<br>
 💬 Ask me about Javascript, ReactJS, NodeJS, MongoDB and SQL Server<br>
 ⚡ Fun fact: "When I'm not immersed in coding, you'll often find me tearing up mountain trails on my downhill bike, seeking that adrenaline rush."
 

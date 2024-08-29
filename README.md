@@ -22,7 +22,7 @@
 <br/>
 
 # 💻 Tech Stack:
-<img align="right" alt="coding" width="300" src="/techstack.gif">
+<img align="right" alt="coding" width="200" src="/techstack.gif">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
@@ -56,10 +56,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs" width="400px" heigth="200px"/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=chuinga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400px" height="200px"/><br/>
 <img src="https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" width="400px" height="200px"/></p>
-
-<br/>
-<br/>
-<br/>
 
 ---
 <p align="right">

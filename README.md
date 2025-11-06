@@ -159,8 +159,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 
 ## 💻 Tech Stack
 <p align="center">
-  <![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=plastic&logo=cursor-ai-white&logoColor=white)
->
+  <https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=plastic&logo=cursor-ai-white&logoColor=white>
 </p>
 
 

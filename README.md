@@ -15,19 +15,42 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 
 <br/><br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-martins-a08a76a5) 
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white)](https://dev.to/chuinga)
-[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)](https://stackoverflow.com/users/23447994/miguel-martins)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://medium.com/@mfproencamartins)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/htzgyyih-the-looper) 
-[![Meetup](https://img.shields.io/badge/Meetup-f64363?style=plastic&logo=meetup&logoColor=white)](https://www.meetup.com/pt-BR/members/406100696/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://www.facebook.com/miguel.chuinga)
-[![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://x.com/chuingasp) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/chuinga) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/mfpmartins)
+<h2>🌐 Socials:</h2>
+<p>
+  <a href="https://linkedin.com/in/miguel-martins-a08a76a5" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/chuinga" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/23447994/miguel-martins" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mfproencamartins" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/htzgyyih-the-looper" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://www.meetup.com/pt-BR/members/406100696/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Meetup-f64363?style=plastic&logo=meetup&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/miguel.chuinga" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://x.com/chuingasp" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/chuinga" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/mfpmartins" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 <br/>
+
 
 ---
 
@@ -39,7 +62,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
   <!-- Languages -->
   <tr>
     <td width="22%"><h3>🧠 Languages</h3></td>
-    <td align="center">
+    <td align="right">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=white"/>
@@ -58,7 +81,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
   <!-- Frontend -->
   <tr>
     <td><h3>🎨 Frontend</h3></td>
-    <td align="center">
+    <td align="right">
       <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white"/>
@@ -74,7 +97,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
   <!-- Backend & APIs -->
   <tr>
     <td><h3>⚙️ Backend & APIs</h3></td>
-    <td align="center">
+    <td align="right">
       <img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-404d59?style=plastic&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white"/>
@@ -87,7 +110,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
   <!-- Databases -->
   <tr>
     <td><h3>🗄️ Databases</h3></td>
-    <td align="center">
+    <td align="right">
       <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=plastic&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postgres-316192?style=plastic&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-07405e?style=plastic&logo=sqlite&logoColor=white"/>
@@ -101,7 +124,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
   <!-- Cloud / DevOps -->
   <tr>
     <td><h3>☁️ Cloud / DevOps</h3></td>
-    <td align="center">
+    <td align="right">
       <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=plastic&logo=amazonwebservices&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=plastic&logo=kubernetes&logoColor=white"/>
@@ -132,7 +155,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
   <!-- AI & LLMs -->
   <tr>
     <td><h3>🤖 AI & LLMs</h3></td>
-    <td align="center">
+    <td align="right">
       <img src="https://img.shields.io/badge/Model%20Context%20Protocol-black?style=plastic&logo=protocol&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon%20Q%20Business-7638fa?style=plastic&logo=qcli&logoColor=white)"/>  
       <img src="https://img.shields.io/badge/Amazon%20Q%20Developer-01a88d?style=plastic&logo=qcli&logoColor=white)"/>      
@@ -150,7 +173,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
   <!-- Tooling & IDEs -->
   <tr>
     <td><h3>🧰 Tooling & IDEs</h3></td>
-    <td align="center">
+    <td align="right">
       <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitLab-181717?style=plastic&logo=gitlab&logoColor=white"/>
@@ -180,7 +203,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
   <!-- Platforms & Distros -->
   <tr>
     <td><h3>🖥️ Platforms & Distros</h3></td>
-    <td align="center">
+    <td align="right">
       <img src="https://img.shields.io/badge/Apache-D42029?style=plastic&logo=apache&logoColor=white"/>
       <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white"/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white"/>
@@ -200,7 +223,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
   <!-- Learning -->
   <tr>
     <td><h3>🎓 Learning</h3></td>
-    <td align="center">
+    <td align="right">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?style=plastic&logo=linkedin-white&logoColor=white"/>
       <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=plastic&logo=w3schools&logoColor=white"/>
       <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=plastic&logo=freecodecamp&logoColor=white"/>
@@ -212,7 +235,6 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
       <img src="https://img.shields.io/badge/MDN%20Web%20Docs-000000?style=plastic&logo=mdnwebdocs&logoColor=white"/>
     </td>
   </tr>
-
 </table>
 
 <br/>

@@ -11,43 +11,21 @@
 
 Pick a slot if you'd like to connect or chat about something you're passionate about — just remember to include a short agenda so we can make the most of our time.  
 
-<a href="https://calendly.com/miguel-chuinga/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/miguel-chuinga/30min"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 <br/><br/>
 
-<h2>🌐 Socials:</h2>
-<p>
-  <a href="https://linkedin.com/in/miguel-martins-a08a76a5" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dev.to/chuinga" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/23447994/miguel-martins" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@mfproencamartins" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/htzgyyih-the-looper" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white" />
-  </a>
-  <a href="https://www.meetup.com/pt-BR/members/406100696/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Meetup-f64363?style=plastic&logo=meetup&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/miguel.chuinga" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://x.com/chuingasp" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/chuinga" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/mfpmartins" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" />
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-martins-a08a76a5) 
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white)](https://dev.to/chuinga)
+[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)](https://stackoverflow.com/users/23447994/miguel-martins)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://medium.com/@mfproencamartins)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/htzgyyih-the-looper) 
+[![Meetup](https://img.shields.io/badge/Meetup-f64363?style=plastic&logo=meetup&logoColor=white)](https://www.meetup.com/pt-BR/members/406100696/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://www.facebook.com/miguel.chuinga)
+[![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://x.com/chuingasp) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/chuinga) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/mfpmartins)
 
 <br/>
 

@@ -239,7 +239,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white"/>
       <br/>
       <details>
-        <summary><b>More AWS services</b></summary>
+        <b>More AWS services</b>
         <p>
           <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=plastic&logo=amazonec2&logoColor=white"/>
           <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=plastic&logo=amazons3&logoColor=white"/>

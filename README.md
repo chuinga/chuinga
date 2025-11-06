@@ -7,19 +7,11 @@
 
 <br/><br/><br/>
 
-<table>
-  <tr>
-    <td>
-      <h3>💌 Want to meet?</h3>
-      <p>Pick a 30-minute slot and include a short agenda so we can make the most of our time.</p>
-    </td>
-    <td align="left">
-      <a href="[https://calendly.com/anmol098/30min](https://calendly.com/miguel-chuinga/30min)">
-        <img alt="Schedule a 1:1" src="https://img.shields.io/badge/Schedule-30%20min-blue?logo=calendly">
-      </a>
-    </td>
-  </tr>
-</table>
+### 📫 Want to meet?
+
+Pick a slot if you'd like to connect or chat about something you're passionate about — just remember to include a short agenda so we can make the most of our time.  
+
+<a href="https://calendly.com/miguel-chuinga/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 <br/><br/><br/>
 

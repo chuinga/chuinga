@@ -7,6 +7,14 @@
 
 <br/><br/><br/>
 
+### 📫 Want to meet?
+
+Pick a slot if you'd like to connect or chat about something you're passionate about — just remember to include a short agenda so we can make the most of our time.  
+
+<a href="https://calendly.com/miguel-chuinga/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+<br/><br/><br/>
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-martins-a08a76a5) 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white)](https://dev.to/chuinga)

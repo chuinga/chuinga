@@ -16,8 +16,6 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 <br/><br/>
 
 ## 🌐 Socials:
-<img align="right" alt="coding" width="200" src="/techstack.gif">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-martins-a08a76a5) 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white)](https://dev.to/chuinga)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)](https://stackoverflow.com/users/23447994/miguel-martins)
@@ -32,6 +30,8 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 <br/>
 
 ## 💻 Tech Stack
+<img align="right" alt="coding" width="200" src="/techstack.gif">
+
 ### 🧠 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
@@ -135,8 +135,6 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0079D5?style=plastic&logo=windows11&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=plastic&logo=macos&logoColor=white)
 
----
-
 ## 📚 Miscellaneous & Learning
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue?style=plastic&logo=mcp&logoColor=white)
 ![Q CLI](https://img.shields.io/badge/Q_Chat-CLI-blue?style=plastic&logo=qcli&logoColor=white)
@@ -159,10 +157,17 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=plastic&logo=cursor-ai-white&logoColor=white)
 
+## 💻 Tech Stack
+<p align="center">
+  <![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=plastic&logo=cursor-ai-white&logoColor=white)
+>
+</p>
+
+
 <br/><br/><br/><br/>
 
 # 📊 Stats:
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight"
        alt="Top Langs" width="400" />
   <br/><br/>

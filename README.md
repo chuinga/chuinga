@@ -27,6 +27,8 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/chuinga) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/mfpmartins)
 
+<br/>
+
 ---
 
 <br/>
@@ -213,10 +215,11 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 
 </table>
 
+<br/>
+
 ---
 
-
-<br/><br/><br/><br/>
+<br/>
 
 # 📊 Stats:
 <div align="left">
@@ -231,6 +234,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 </div>
 
 ---
+
 <p align="right">
     <img src='https://komarev.com/ghpvc/?username=chuinga&color=00A2E8&style=plastic'/>
 </p>

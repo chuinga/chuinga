@@ -257,6 +257,8 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
   <tr>
     <td><h3>🤖 AI & LLMs</h3></td>
     <td align="right">
+      <img src="https://img.shields.io/badge/Model%20Context%20Protocol-1F7AFC?style=plastic&logo=protocol&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CLI-blue?style=plastic&logo=qcli&logoColor=white)"/>
       <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=white"/>
       <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=plastic&logo=googlegemini&logoColor=white"/>
@@ -264,7 +266,6 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
       <img src="https://img.shields.io/badge/Perplexity-000000?style=plastic&logo=perplexity&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Model%20Context%20Protocol-1F7AFC?style=plastic&logo=protocol&logoColor=white"/>
     </td>
   </tr>
 

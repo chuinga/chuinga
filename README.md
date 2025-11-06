@@ -2,7 +2,7 @@
 <img align="right" alt="coding" width="400" src="/intro_to_comp_programming.jpg">
 🔭 I’m currently working on a e-commerce platform<br>
 🌱 I’m currently learning DSA, C++ and C#<br>
-💬 Ask me about Javascript, ReactJS, NodeJS, MongoDB, SQL Server, Java & Python.<br>
+💬 Ask me about Javascript, ReactJS, NodeJS, MongoDB, SQL Server, Java, Python, AWS and AI.<br>
 ⚡ Fun fact: "When I'm not immersed in coding, you'll often find me tearing up mountain trails on my downhill bike, seeking that adrenaline rush."
 
 <br/><br/><br/>

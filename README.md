@@ -29,11 +29,6 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 
 <br/>
 
-
----
-
-<br/>
-
 ## 💻 Tech Stack
 <table width="100%">
 
@@ -214,10 +209,6 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
     </td>
   </tr>
 </table>
-
-<br/>
-
----
 
 <br/>
 

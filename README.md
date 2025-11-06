@@ -56,6 +56,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuinga&hide=TeX&layout=compact&theme=tokyonight" alt="Top Langs" width="400px" heigth="200px"/><br/>
 <img src="https://github.r2v.ch/codewars?user=chuinga&stroke=%23BB432C&theme=gradient_by_level" alt="Codewars" width="400px" height="200px"/></p>
 
+![Chuinga's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuinga&show_icons=true&theme=radical)
+
 ---
 <p align="right">
     <img src='https://komarev.com/ghpvc/?username=chuinga&color=00A2E8&style=plastic'/>

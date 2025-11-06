@@ -157,10 +157,6 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=plastic&logo=cursor-ai-white&logoColor=white)
 
-## 💻 Tech Stack
-<p align="center">
-  <https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=plastic&logo=cursor-ai-white&logoColor=white>
-</p>
 
 
 <br/><br/><br/><br/>

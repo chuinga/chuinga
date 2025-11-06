@@ -16,6 +16,8 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 <br/><br/>
 
 ## 🌐 Socials:
+<img align="right" alt="coding" width="200" src="/techstack.gif">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-martins-a08a76a5) 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white)](https://dev.to/chuinga)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)](https://stackoverflow.com/users/23447994/miguel-martins)
@@ -30,8 +32,6 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 <br/>
 
 ## 💻 Tech Stack
-<img align="right" alt="coding" width="200" src="/techstack.gif">
-
 ### 🧠 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
@@ -138,7 +138,7 @@ Pick a slot if you'd like to connect or chat about something you're passionate a
 ---
 
 ## 📚 Miscellaneous & Learning
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue??style=plastic&logo=mcp&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue?style=plastic&logo=mcp&logoColor=white)
 ![Q CLI](https://img.shields.io/badge/Q_Chat-CLI-blue?style=plastic&logo=qcli&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=white)
